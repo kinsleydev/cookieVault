@@ -1,0 +1,20 @@
+{
+  "name": "cookie-vault",
+  "version": "1.0.0",
+  "description": "Cookie manager for nodejs",
+  "homepage": "https://github.com/kinsleydev/cookieVault#readme",
+  "bugs": {
+    "url": "https://github.com/kinsleydev/cookieVault/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kinsleydev/cookieVault.git"
+  },
+  "license": "GPL-3.0-or-later",
+  "author": "kinsleydev",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
