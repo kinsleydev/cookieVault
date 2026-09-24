@@ -1,3 +1,7 @@
+// CookieVault v1.0.0
+// c Kinsley / GPLv3.0
+// https://github.com/kinsleydev/cookieVault
+
 class CookieVault {
     #vault = {};
     #preserve = false;

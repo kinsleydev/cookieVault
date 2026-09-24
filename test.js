@@ -1,0 +1,1 @@
+import CookieVault from 'cookievault';
